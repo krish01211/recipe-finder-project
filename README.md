@@ -2,7 +2,8 @@
 
 A minimal recipe search app using the **Edamam API**. Users can search, view, and save recipes. Light and dark themes are supported.
 
-🔗 **[Live Demo](https://comealongerica.github.io/recipe-finder-guide/)**
+🔗 **[Live Demo](https://comealongerica.github.io/recipe-finder-guide/)** (inspired)
+This was done during the tenure internship with edunet foundation.
 
 ---
 
